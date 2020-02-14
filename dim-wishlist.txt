@@ -1,6 +1,23 @@
-title:Voltron.txt (1/13/2020) + AntaresNova's wishlist (2/13/2020).
+title:Voltron.txt (1/13/2020) + AntaresNova's wishlist (2/14/2020)
+//https://github.com/48klocs/dim-wish-list-sources/blob/master/voltron.txt
 
 // AntaresNova's Wishlist
+
+// Pairings for Eriana's Vow
+//notes: Antares - Eriana's Partner
+dimwishlist:item=-69420&perks=3468089894,3300816228
+dimwishlist:item=-69420&perks=3468089894,3300816228,1866048759
+dimwishlist:item=-69420&perks=706527188,1866048759
+dimwishlist:item=-69420&perks=706527188,1890422124
+
+//Black Scorpion-4SR
+//notes: Antares - PVP
+dimwishlist:item=525750263&perks=1840239774,3142289711,2387244414,47981717
+dimwishlist:item=525750263&perks=1840239774,3142289711,2387244414,2846385770
+//notes: Antares - PVP (Suboptimal)
+dimwishlist:item=525750263&perks=2387244414,47981717
+dimwishlist:item=525750263&perks=2387244414,2846385770
+
 // Breachlight
 //notes: Antares - PVP (Suboptimal)
 dimwishlist:item=1289997971&perks=3250034553,4071163871,1546637391
@@ -28,13 +45,6 @@ dimwishlist:item=2575506895&perks=3177308360,247725512,706527188
 dimwishlist:item=2575506895&perks=3177308360,247725512,4090651448,706527188
 dimwishlist:item=2575506895&perks=3177308360,247725512,3250034553,2846385770
 dimwishlist:item=2575506895&perks=3250034553,3177308360,1168162263,3038247973
-
-// Duke Mk.44
-//notes: Antares - Eriana's Partner
-dimwishlist:item=-69420&perks=3468089894,3300816228
-dimwishlist:item=-69420&perks=3468089894,3300816228,1866048759
-dimwishlist:item=-69420&perks=706527188,1866048759
-dimwishlist:item=-69420&perks=706527188,1890422124
 
 // Spare Rations
 //notes: Antares - PVP
