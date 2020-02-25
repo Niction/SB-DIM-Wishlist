@@ -3,6 +3,12 @@ title:Voltron.txt (1/13/2020) + Antares (Optimal)Nova's wishlist (2/24/2020)
 
 // Antares Nova's Wishlist
 
+//BLAST FURNACE
+//notes: Antares (Optimal)
+dimwishlist:item=3843477312&perks=3433396026,106909392,2387244414,1015611457
+dimwishlist:item=3843477312&perks=3433396026,3230963543,2387244414,1015611457
+dimwishlist:item=3843477312&perks=3433396026,3142289711,2779035018,1015611457
+
 //HAZARD OF THE CAST
 //notes: Antares (Optimal)
 dimwishlist:item=1789347249&perks=839105230,1561002382,2387244414,706527188
