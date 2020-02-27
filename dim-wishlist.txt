@@ -1,7 +1,13 @@
-title:Voltron.txt (1/13/2020) + Antares (Optimal)Nova's wishlist (2/24/2020)
+title:Voltron.txt (1/13/2020) + Antares (Optimal)Nova's wishlist (2/27/2020)
 //https://github.com/48klocs/dim-wish-list-sources/blob/master/voltron.txt
 
 // Antares Nova's Wishlist
+
+//TROPHY HUNTER
+//notes: Antares (Perfection)
+dimwishlist:item=4166221755&perks=839105230,1087426260,3400784728,1546637391
+//notes: Antares (Optimal)
+dimwishlist:item=4166221755&perks=839105230,2420895100,3400784728,1546637391
 
 //BLAST FURNACE
 //notes: Antares (Optimal)
