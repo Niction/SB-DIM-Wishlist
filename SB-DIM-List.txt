@@ -1,4 +1,5 @@
-title:SnowvaBear's personal roll wishlist
+title:SnowvaBear's Wishlist
+description:The personal DIM wishlist of SnowvaBear
 
 // First In, Last Out
 //notes: Hipfire monster
