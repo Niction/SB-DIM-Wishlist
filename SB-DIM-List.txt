@@ -1,3 +1,5 @@
+title:SnowvaBear's personal roll wishlist
+
 // First In, Last Out
 //notes: Hipfire monster
 dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759,47981717
