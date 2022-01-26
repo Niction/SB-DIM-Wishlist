@@ -1,10 +1,31 @@
+// First In, Last Out
+//notes: Hipfire monster
 dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759,47981717
+// Blasphemer
+//notes: Hipfire monster
 dimwishlist:item=2782847179&perks=4090651448,3142289711,1866048759,47981717
+// Heritage
+//notes: Hipfire monster
 dimwishlist:item=4248569242&perks=4090651448,3142289711,1866048759,588594999
+
+// Braytech Werewolf
+//notes: Consistency
 dimwishlist:item=528834068&perks=1885400500,1359896290,1890422124
 dimwishlist:item=528834068&perks=1561002382,1359896290,1890422124
+// The Forward Path
+//notes: Consistency
 dimwishlist:item=1690783811&perks=106909392,1359896290,1890422124
+// The Last Dance
+//notes: Consistency
 dimwishlist:item=2009277538&perks=1561002382,588594999,1890422124
+// Chrysura Melo
+//notes: Consistency
 dimwishlist:item=1337707096&perks=839105230,3230963543,1359896290,2458213969
+
+// False Promises
+//notes: Max range
 dimwishlist:item=3143732432&perks=202670084,1885400500,1359896290,2387244414
+
+// Seventh Seraph Carbine
+//notes: PVE primary
 dimwishlist:item=1561006927&perks=1467527085,1885400500,1354429876,1546637391
