@@ -1,6 +1,10 @@
 title:SnowvaBear's Wishlist
 description:The personal DIM wishlist of SnowvaBear
 
+// Main Ingredient
+//notes:[SnowvaBear] PvP
+dimwishlist:item=253196586&perks=2405638014,689005463,280464955,1890422124
+
 // First In, Last Out
 //notes:[SnowvaBear] Hipfire monster - PvP
 dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759,47981717
