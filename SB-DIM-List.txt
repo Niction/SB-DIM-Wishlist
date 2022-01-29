@@ -4,12 +4,16 @@ description:The personal DIM wishlist of SnowvaBear
 // Main Ingredient
 //notes:[SnowvaBear] PvP
 dimwishlist:item=253196586&perks=2405638014,689005463,280464955,1890422124
+//notes:[SnowvaBear] Hipfire - PvP
+dimwishlist:item=253196586&perks=2405638014,689005463,1866048759,1890422124
+
+// Cartesian Coordinate
+//notes:[SnowvaBear] Hipfire - PvP
+dimwishlist:item=2481881293&perks=2405638014,689005463,1866048759,2213355989
 
 // Glacioclasm
 //notes:[SnowvaBear] PvE
 dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713
-//notes:[SnowvaBear] Hipfire - PvP
-dimwishlist:item=253196586&perks=2405638014,689005463,1866048759,1890422124
 //notes:[SnowvaBear] PvP
 dimwishlist:item=1030895163&perks=839105230,689005463,1645158859,2213355989
 
